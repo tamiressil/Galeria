@@ -1,8 +1,10 @@
-# React + Vite
+# Galeria
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Repositório dedicado a criação de uma galeria de imagens onde o usuário possa navegar entre diferentes fotos e visualizá-las em tela cheia.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+https://galeria-one-beta.vercel.app/
+
+![image](https://github.com/tamiressil/Galeria/assets/163886976/5b44befd-95c3-40d5-a551-0df7eeb602b7)
+
